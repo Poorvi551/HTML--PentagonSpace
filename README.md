@@ -21,24 +21,24 @@ Tags:-
 They are of two types -
 1. Paired - They have both opening and closing tags.
    - Bold tag
-          *<b>
+          <b>
    - Strong tag
-          *<strong>
+          <strong>
    - Italic tag
-           *<i>
+           <i>
    - Emphasis tag
-            *<em>
+           <em>
    - mark tag
-             *<mark>
+           <mark>
    - Subscript tag
-              *<sub>
+           <sub>
    - Superscript tag
-              *<sup>
+           <sup>
    
 2. Unpaired - They are self closing tags.
    - Paragraph tag
-              *<p>
+              <p>
    - Pre formatted tag
-              *<pre>
+              <pre>
    - Image tag
-              *<img>
+              <img>
