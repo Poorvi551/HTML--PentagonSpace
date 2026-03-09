@@ -35,26 +35,45 @@ Tags:-
 They are of two types -
 
 1. Paired - They have both opening and closing tags.
+   
    - Bold tag
+     
           <b>
+     
    - Strong tag
+     
           <strong>
+     
    - Italic tag
+     
            <i>
+     
    - Emphasis tag
+     
            <em>
+     
    - mark tag
+     
            <mark>
+     
    - Subscript tag
+     
            <sub>
+   
    - Superscript tag
+     
            <sup>
    
-2. Unpaired - They are self closing tags.
+3. Unpaired - They are self closing tags.
    
    - Paragraph tag
+     
               <p>
+     
    - Pre formatted tag
+     
               <pre>
+   
    - Image tag
+     
               <img>
