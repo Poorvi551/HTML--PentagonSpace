@@ -2,6 +2,7 @@
 Web Tech Learnings at pentagon space Pvt Ltd.
 
 How the web works?
+
 User will open the browser and enter some data and tries to connect to the server, but the server will not understand the human readable format so we have DNS. DNS stands for Domain Name System which is used to convert human readable format to server understandable format that is IP Address. IP Address stands for Internet Protocol Address based on the IP Address server will give the output.
 
 Started with basic structure of HTML.
