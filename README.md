@@ -1,10 +1,40 @@
 # Web_Tech--PentagonSpace
 Web Tech Learnings at pentagon space Pvt Ltd.
 
+____________________________________________________________________________________
+
+3 Tier Architecture :
+
+* Frontend - whatever the user sees in the user interface (UI) is called frontend.
+
+* Middleware / Server - Middleware is a place where a software is installed.
+
+* Backend - Backend stores the information about the browser.
+
 How the web works?
 
-User will open the browser and enter some data and tries to connect to the server, but the server will not understand the human readable format so we have DNS. DNS stands for Domain Name System which is used to convert human readable format to server understandable format that is IP Address. IP Address stands for Internet Protocol Address based on the IP Address server will give the output.
+* User will open the browser and enter some data and tries to connect to the server, but the server will not understand the human readable format so we have DNS. DNS stands for Domain Name System which is used to convert human readable format to server understandable format that is IP Address. IP Address stands for Internet Protocol Address based on the IP Address server will give the output.
 
+* Browser - Browser is the software application which helps to load the webpages, websites and web server.
+
+_________________________________________________________________________________
+
+HTML - 
+
+* HTML - HTML stands for Hypertext Markup Language.
+
+* It was developed by Tim Bernesly in 1995.
+
+* It is one of the standard markup language.
+
+* The latest version of HTML is - HTML 5
+
+* It consists of series of Elements.
+
+* Tells the browser what content should be displayed on UI.
+
+* Standard markup Language has alternatives - XML(Extensible Markup Language), XHTML(Extensible Hypertext Markup Language),JSP(Java Servlet Page),JSX(Javascript XML).
+  
 Started with basic structure of HTML.
 _______________________________________________________________________________
 
