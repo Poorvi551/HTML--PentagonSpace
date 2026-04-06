@@ -107,3 +107,63 @@ They are of two types -
    - Image tag
      
               <img>
+
+
+HTML Elements:
+
+* HTML elements are the content enclosed with opening tag and closing tag.
+* There are of two types -
+    1. Block Elements
+    2. Inline Elements
+
+ 1. Block Elements -
+
+  * Elements which will consume the entire width of the browser is called Block level elements.
+  * Ex: - <h>, <div>
+
+ 2. Inline Elements -
+
+  * Elements which will consume the content width of the browser is called Inline level elements.
+  * Ex: - <p>, <span>, formatting tags.
+
+* Attributes:-
+
+* Are additional info about the tag.
+* All tags can have attributes.
+* Each and every tag can have multiple Attributes.
+* Thea re always used in openning tag.
+* Ex: src="" in image tag, height=100px
+
+1. Anchor Tag :
+
+   * Anchor tag refers to link a webpage.
+   * Syntax:
+
+         <a href="" target="_blank"></a>
+
+        _blank : targets the webpage into a new tab except all other targets such as - parent, self,top.
+2. Image tag :
+
+   * Syntax:
+
+         <img src="path" alt="image1" height="200px" width="200px"/>
+ * Path are of two types -
+     * Absolute path - where we copy link online
+     * Relative path - where we download and copy(downloaded image) path.
+
+Tables :
+
+ * Table is a collection of rows and columns.
+ * Rows : Row is a horizontal representation of table.(tr)
+ * Column : column is a vertical representation of table.(td)
+ * Cell : Cell is the Intersection of rows and columns in a table.
+ *  Syntax :
+    2*1
+       <table>
+         <tr>
+           <td>1</td>
+         </tr>
+         <tr>
+           <td>2</td>
+         </tr>
+       </table>
