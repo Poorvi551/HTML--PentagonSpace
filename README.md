@@ -188,7 +188,7 @@ Tables :
          </tr>
        </table>
 
-* List:
+List:
 
  * List is an element which stores elements in a sequential or non sequential order.
  * They are of 4 types :
