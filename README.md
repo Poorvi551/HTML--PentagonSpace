@@ -1,5 +1,5 @@
-# Web_Tech--PentagonSpace
-Web Tech Learnings at pentagon space Pvt Ltd.
+# Web_Tech-HTML-PentagonSpace
+HTML Learnings at pentagon space Pvt Ltd.
 
 ____________________________________________________________________________________
 
@@ -167,3 +167,43 @@ Tables :
            <td>2</td>
          </tr>
        </table>
+       
+* Nested Table :
+  
+  * Table inside another table is called nested table.
+  * Ex: <table>
+         <tr>
+           <td>
+           <table>
+         <tr>
+           <td>1</td>
+         </tr>
+         <tr>
+           <td>2</td>
+         </tr>
+       </table></td>
+         </tr>
+         <tr>
+           <td>2</td>
+         </tr>
+       </table>
+
+* List:
+
+ * List is an element which stores elements in a sequential or non sequential order.
+ * They are of 4 types :
+     1. Ordered List
+     2. Unordered List
+     3. Definition List
+     4. Nested List
+
+  1. Ordered List:
+      * The list which stores elements in a sequential order is called orederd list.
+      * Ex :
+            <ol>
+              <li>Item 1</li>
+              <li>Item 2</li>
+              <li>Item 3</li>
+            <ol>
+            
+      
