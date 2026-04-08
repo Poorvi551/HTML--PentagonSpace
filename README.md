@@ -199,8 +199,35 @@ List:
 
   1. Ordered List:
       * The list which stores elements in a sequential order is called orederd list.
+      * To change the order we use <ol type=A>, <ol type=a>,
       * Ex :
             <ol>
+              <li>Item 1</li>
+              <li>Item 2</li>
+              <li>Item 3</li>
+            <ol>
+
+     * To reverse the order :
+     * Ex:
+          <ol start=5 reversed>
+              <li>Item 1</li>
+              <li>Item 2</li>
+              <li>Item 3</li>
+            <ol>
+
+  2. Unordered List:
+      * The list which stores elements in a not in a sequential order or non sequential is called ordered list.
+      * To change the order we use <ol type=A>, <ol type=a>,
+      * Ex :
+            <ol>
+              <li>Item 1</li>
+              <li>Item 2</li>
+              <li>Item 3</li>
+            <ol>
+
+     * To reverse the order :
+     * Ex:
+          <ol start=5 reversed>
               <li>Item 1</li>
               <li>Item 2</li>
               <li>Item 3</li>
